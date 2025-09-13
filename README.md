@@ -1,3 +1,5 @@
-# quiz_std
+# Simple Quiz App
 
-A new Flutter project.
+## 🖼 Screens  
+![TrueFalse](assets/TrueFalseScreenView.png)  
+![MultiChoise](assets/MultiChoiseScreenView.png)  
